@@ -1,0 +1,58 @@
+#wrapper {
+width: 80%;    
+margin-left: auto;
+margin-right: auto;
+border: 2px;
+border-style: solid;
+border-color: #CCCCCC;
+}
+
+p {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+p.italictext {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;   
+}
+
+p.boldtext {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;   
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 900;
+    margin: 0px;
+    padding: 0px;
+    color: #333;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    margin: 0px;
+    padding: 0px;
+    color: #333;
+}
